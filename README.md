@@ -1,5 +1,9 @@
 # README
 
+## issues with this commit
+#### devise does not seem to be working (its not working)
+#### had to comment out a lot of code, wrong gems?
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
