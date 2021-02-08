@@ -8,7 +8,7 @@ gem 'rails', '~> 6.1.1'
 
 gem 'devise'
 gem 'twitter-bootstrap-rails'
-gem 'devise-i18n'
+# gem 'devise-i18n'
 gem 'devise-bootstrap-views'
 gem 'jquery-rails'
 # Use Puma as the app server
